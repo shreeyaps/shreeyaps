@@ -23,7 +23,7 @@ Somewhere between teaching machines to think, trying to make sense of markets & 
 - Apparently, my thoughts deserve a stage, so **public speaking** and **debating** it is.
 - Decentralization is literally my jam.
 - I study **business strategy** for fun, figuring out why things succeed or spectacularly fail.
-- Big fan of conversations that go off-script & ideas that make me rethink everything.
+- Big fan of conversations that go off-script & ideas that make me rethink literally everything.
 
 
 Careful while exploring! some repos are stable meanwhile others are just random adrenaline experiences.
