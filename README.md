@@ -17,12 +17,14 @@ Somewhere between teaching machines to think, trying to make sense of markets & 
 - Building production-ready systems that scale & adapt.
 
 **Fun facts:**
-- I enjoy _content writing_, cuz speaking all of it will be too much for the society.
-- My kind of therapy? _Calligraphy_ & zero appointments.
-- Once obsessed with _watercolor and painting_, now I color-code my life.
+- **Content writing** is where my random thoughts go to find some direction.
+- My kind of therapy? **Calligraphy.**
+- Once obsessed with **watercolor and painting**, now I color-code my life.
+- Apparently, my thoughts deserve a stage, so **public speaking** and **debating** it is.
 - Decentralization is literally my jam.
-- I study _business strategy_ for fun, figuring out why things succeed or spectacularly fail.
-- Hanging out with peeps is my favorite way to discover new ideas and sometimes new food spots. 
+- I study **business strategy** for fun, figuring out why things succeed or spectacularly fail.
+- Big fan of conversations that go off-script & ideas that make me rethink everything.
+
 
 Careful while exploring! some repos are stable meanwhile others are just random adrenaline experiences.
 
