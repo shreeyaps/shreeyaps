@@ -3,22 +3,17 @@ If you find something impressive here, that makes two of us.
 
 # I am Shreeya P S,
 
--Learning and building in Web3 & AIML. 
+Somewhere between teaching machines to think, trying to make sense of markets, and questioning how *exactly* the world works.
 
--Kinda obsessed with the idea of a user-owned **data**, decentralized web.
+- Wandering through the worlds of AI, data & occasionally into decentralized systems.
+- Always fascinated about how patterns predicts market, algorithms can learn intuition and a few lines of code can challenge systems.
+- Learning, building, unlearning & repeating.
 
--Wiling to create technology that leaves a lasting and meaningful mark on the world.
+**The kind of work I'm excited about:**
 
-
-**Currently focused on:**
-- Learning Data Analysis + ML algorithms
-- Building AI models, LLMs, and agents that hopefully behave.
-- Exploring blockchain and making tiny decentralized things that actually work.
-
-**I’m looking forward to working on:**
-- solving real-world problem with data science and machine learning.
-- Experimenting with LLMs, designing RAG pipelines, Building AI agents, and exploring advanced LLM architectures.
-- Smart Contract logic, dApps, and distributed backend systems.
+- Applied Machine Learning & Data systems.
+- Fine-tuning LLMs along with its architecture & workflows.
+- Building production-ready systems that scale & adapt.
 
 **Fun facts:**
 - I enjoy content writing, cuz speaking all of it will be too much for the society.
