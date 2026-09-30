@@ -6,7 +6,7 @@ If you find something impressive here, that makes two of us.
 Somewhere between teaching machines to think, trying to make sense of markets & questioning how *exactly* the world works.
 
 - Wandering through the worlds of AI, data & occasionally into decentralized systems.
-- Always fascinated about how patterns predicts market, algorithms can learn intuition and a few lines of code can challenge systems.
+- Always fascinated by how patterns predicts market, algorithms can learn intuition and a few lines of code can challenge systems.
 - Dabble in Web3 development once in a while.
 - Learning, building, unlearning & repeating.
 
