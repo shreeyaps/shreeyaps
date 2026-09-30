@@ -22,7 +22,7 @@ Somewhere between teaching machines to think, trying to make sense of markets, a
 - Once obsessed with watercolor and painting, now I color-code my life.
 - Decentralization is literally my jam.
 - I study business strategy for fun, figuring out why things succeed or spectacularly fail.
-- Hanging out with peeps is my favorite way to discover new ideas and occasionally new food spots. 
+- Hanging out with peeps is my favorite way to discover new ideas and sometimes new food spots. 
 
 Careful while exploring! some repos are stable meanwhile others are just random adrenaline experiences.
 
