@@ -7,6 +7,7 @@ Somewhere between teaching machines to think, trying to make sense of markets, a
 
 - Wandering through the worlds of AI, data & occasionally into decentralized systems.
 - Always fascinated about how patterns predicts market, algorithms can learn intuition and a few lines of code can challenge systems.
+- Dabble in Web3 development once in a while.
 - Learning, building, unlearning & repeating.
 
 **The kind of work I'm excited about:**
